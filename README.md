@@ -1,2 +1,2 @@
 # Projetos_Academicos
-Projetos que foram na faculdade 
+Projetos que foram feitos para a faculdade
